@@ -1,0 +1,1 @@
+!rm/model/entities/Inventaire.java 2javaXDhr!rm/model/entities/Inventaire.java
